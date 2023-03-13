@@ -1,0 +1,1 @@
+export const SECRET_TOKEN: string = 'API_SECRET_TEST';
